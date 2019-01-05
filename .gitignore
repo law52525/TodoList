@@ -1,0 +1,8 @@
+# dir
+venv/
+__pycache__/
+.idea/
+migrations/
+
+# file
+db.sqlite3
