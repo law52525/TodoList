@@ -31,17 +31,17 @@ Python 3.6.4
 类Unix系统下：
 `. venv/bin/activate`
 
-######安装依赖：
+###### 安装依赖：
 
 `pip install -r requirements.txt`
 
 ##### 第二步 数据库配置
 
-######创建task模型：
+###### 创建task模型：
 
 `python manage.py makemigrations todo`
 
-######在数据库里创建自定义的模型的数据表：
+###### 在数据库里创建自定义的模型的数据表：
 
 `python manage.py migrate`
 
