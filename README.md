@@ -16,7 +16,7 @@
 我的Python版本
 
 ```bash
-python --version
+$ python --version
 Python 3.6.4
 ```
 
