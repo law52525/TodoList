@@ -48,7 +48,7 @@ Python 3.6.4
 ##### 第三步 创建账号
 
 ```bash
-python manage.py createsuperuser
+$ python manage.py createsuperuser
 用户名 (leave blank to use 'mayi'):
 电子邮件地址:
 Password:
@@ -59,7 +59,7 @@ Superuser created successfully.
 ##### 第四步 启动服务
 
 ```bash
-python manage.py runserver
+$ python manage.py runserver
 Performing system checks...
 
 System check identified no issues (0 silenced).
